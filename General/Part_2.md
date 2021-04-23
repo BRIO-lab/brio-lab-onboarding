@@ -4,8 +4,11 @@
 So, now you might be wondering: what _exactly_ does this lab do?
 
 The main purpose of our efforts is to assist Orthopaedic Surgeons. We do that in _a lot_ of different ways, including, but not limited to:
+
     * Test
+
     * Test
+    
     * Test
 
 
