@@ -12,4 +12,4 @@ The first things that you should take care of are not research-related.
 
 
 --------------
-If you are here for research credits (EGN4912), please make sure to fill out [this form](https://www.eng.ufl.edu/graduate/wp-content/uploads/sites/44/2018/09/EGN-4912-Syllabus-and-Registration-Form.pdf) and send it to Dr. Banks and your graudate student mentor.
+If you are here for research credits (EGN4912), please make sure to fill out [this form](https://www.eng.ufl.edu/graduate/wp-content/uploads/sites/44/2018/09/EGN-4912-Syllabus-and-Registration-Form.pdf){:target="_blank"} and send it to Dr. Banks and your graudate student mentor.
