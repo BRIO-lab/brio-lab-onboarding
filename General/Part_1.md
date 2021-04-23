@@ -7,11 +7,7 @@ The first things that you should take care of are not research-related.
 -------------
 
 1. Pick out a desk in NSC 209 (this is location in the hallway between the Wertheim Building and Nuclear Sciences). Sit anywhere there's an open spot.
-2. 
-
-
+2. Reach out to Andrew (ajensen123@ufl.edu) or Xheni (xbare@ufl.edu) to be added to the Lab's Slack Channel.
 
 --------------
 If you are here for research credits (EGN4912), please make sure to fill out [this form](https://www.eng.ufl.edu/graduate/wp-content/uploads/sites/44/2018/09/EGN-4912-Syllabus-and-Registration-Form.pdf) and send it to Dr. Banks and your graudate student mentor.
-
-<a href="example.com" target="_blank">New Tab</a>
