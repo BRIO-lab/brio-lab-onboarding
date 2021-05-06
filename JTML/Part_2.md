@@ -12,5 +12,9 @@ Within the field of mechanics, kinematics is the study of the motion of particle
 
 ### Why Do We Care?
 
+Joint kinematics offer a tremendous deal of information to both researchers and clinicians looking to study and treat various joint pathologies.
+Some questions they could ask:
+
+    * What is the best way to asfaf
 
 [Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next]()
