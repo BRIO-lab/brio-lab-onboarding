@@ -26,6 +26,8 @@ Some questions they could ask:
 [``Banks 1997 - In vivo kinematics of cruciate-retaining and -substituting knee arthroplasties``](https://www.dropbox.com/s/cwo47s955iwb995/Banks%201997%20-%20In%20vivo%20kinematics%20of%20cruciate-retaining%20and%20-substituting%20knee%20arthroplasties.pdf?dl=0)
 
 [``Matsuki 2011 - In vivo 3-dimensional analysis of scapular kinematics comparison of dominant and nondominant shoulders``](https://www.dropbox.com/s/3nbc43qa592jtmq/Matsuki%202011%20-%20In%20vivo%203-dimensional%20analysis%20of%20scapular%20kinematics%20comparison%20of%20dominant%20and%20nondominant%20shoulders.pdf?dl=0)
+
+[Matsuki 2011 - In vivo 3-dimensional analysis of scapular kinematics comparison of dominant and nondominant shoulders](https://www.dropbox.com/s/3nbc43qa592jtmq/Matsuki%202011%20-%20In%20vivo%203-dimensional%20analysis%20of%20scapular%20kinematics%20comparison%20of%20dominant%20and%20nondominant%20shoulders.pdf?dl=0)
 []()
 []()
 
