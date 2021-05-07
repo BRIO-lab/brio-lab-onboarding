@@ -23,7 +23,7 @@ Some questions they could ask:
 
 ###  Further Reading
 
-``[Banks 1997 - In vivo kinematics of cruciate-retaining and -substituting knee arthroplasties](https://www.dropbox.com/s/cwo47s955iwb995/Banks%201997%20-%20In%20vivo%20kinematics%20of%20cruciate-retaining%20and%20-substituting%20knee%20arthroplasties.pdf?dl=0)``
+[``Banks 1997 - In vivo kinematics of cruciate-retaining and -substituting knee arthroplasties``](https://www.dropbox.com/s/cwo47s955iwb995/Banks%201997%20-%20In%20vivo%20kinematics%20of%20cruciate-retaining%20and%20-substituting%20knee%20arthroplasties.pdf?dl=0)
 
 
 [Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next]()
