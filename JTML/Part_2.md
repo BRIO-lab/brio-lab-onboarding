@@ -1,4 +1,4 @@
-[Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next]()
+[Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_3.md)
 
 # JTML Part 2: Background Information
 
@@ -27,9 +27,6 @@ Some questions they could ask:
 
 [``Matsuki 2011 - In vivo 3-dimensional analysis of scapular kinematics comparison of dominant and nondominant shoulders``](https://www.dropbox.com/s/3nbc43qa592jtmq/Matsuki%202011%20-%20In%20vivo%203-dimensional%20analysis%20of%20scapular%20kinematics%20comparison%20of%20dominant%20and%20nondominant%20shoulders.pdf?dl=0)
 
-[Matsuki 2011 - In vivo 3-dimensional analysis of scapular kinematics comparison of dominant and nondominant shoulders](https://www.dropbox.com/s/3nbc43qa592jtmq/Matsuki%202011%20-%20In%20vivo%203-dimensional%20analysis%20of%20scapular%20kinematics%20comparison%20of%20dominant%20and%20nondominant%20shoulders.pdf?dl=0)
+**get the information from Dr. Banks about the papers that he thinks everyone should read to get caught up on why joint kinematics are important**
 []()
 []()
-
-
-[Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next]()
