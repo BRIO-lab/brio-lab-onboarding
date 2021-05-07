@@ -5,4 +5,8 @@ Hey! If you're on this page, them you've likely spoken to Dr. Banks or Andrew ab
 
 This folder will contain all the information needed to get you caught up to speed on the project, whether you're a Mechanical/Biomedical Engineering Student or a CISE Student.
 
+The first half of the repository is going to contain all the background information to get you caught up on some of the important literature that motivates this work. This includes [``Joint Kinematics``](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_2.md), [``Model-Image Registration``](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_3.md), and [``Machine Learning``](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_4.md).
+
+The second half of this onboarding repository will contain links to the different skills that will be used, and some tutorials on how to apply those skills. Those skills include [``Python``](), [``Machine Learning``](), [``C++``](), and [``HiperGator``]().
+
 [Start Here](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md)
