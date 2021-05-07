@@ -17,6 +17,7 @@ Some questions they could ask:
 
 * What is the difference between healthy knee kinematics and osteoarthritic knee kinematics during a lunge activity?
 * What is the proper geometry for an implant design to replicate natural knee kinematics during locomotion?
-* 
+* Is there a difference between shoulder kinematics for dominant and non-dominant shoulder during specific activities?
+* Are there any kinematic differences between various postoperative satisfaction levels following total knee arthroplasty?
 
 [Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next]()
