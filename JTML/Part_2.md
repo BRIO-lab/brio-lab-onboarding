@@ -1,10 +1,9 @@
 [Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_3.md)
 
-# JTML Part 2: Background Information
+# JTML Part 2: Joint Kinematics
 
 You likely joined this project because of some interest in coding/image analysis/medical imaging/machine learning. While all these attributes describe what this project entails, it is useful to know _**why**_ we are using all these tools, and the problems that we hope to solve by applying them.
 
-## Joint Kinematics
 
 ### Brief Overview
 
@@ -30,3 +29,5 @@ Some questions they could ask:
 **get the information from Dr. Banks about the papers that he thinks everyone should read to get caught up on why joint kinematics are important**
 []()
 []()
+
+[Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md) | [Next](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_3.md)
