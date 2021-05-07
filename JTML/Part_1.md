@@ -7,6 +7,8 @@ To start, we aren't going to worry too much about research-type things; rather, 
 -----------
 
 1. [Request a HiperGator Account (for Gatorlink account holders)](https://www.rc.ufl.edu/access/account-request/)
+    * Scott Banks is going to be your faculty sponsor.
+    * This will send an email to Dr. Banks for his approval, and once he gives it you should be all set up. If he hasn't responded within a few days, feel free to email him (banks@ufl.edu) to make sure that he got the request.
     * This is what the lab uses to train, test, and deploy neural networks.
 2. Download Python and Anaconda
     * [Python Download](https://www.python.org/downloads/)
