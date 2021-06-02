@@ -42,4 +42,9 @@ Remember those limitations that we encountered with model-image registration fro
 
 [Papers with Code]() - this is a really great resource that consolidates the academic journals that included the code they used to generate the results.
 
+[Sentdex - Deep Learning with Python (PyTorch)](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) - shows how to use PyTorch in a pretty basic way to understand the general syntax of the library. This is the library that we will be using for our code.
+
+[Sentdex - Neural Networks from Scratch in Python](https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) - a few videos that explain very simply the basic structure of a neural network. Pretty straightforward, and you learn how some of the components are implemented in code.
+
+
 [Previous](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_3.md) | [Next](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_5.md)
