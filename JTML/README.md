@@ -9,4 +9,18 @@ The first half of the repository is going to contain all the background informat
 
 The second half of this onboarding repository will contain links to the different skills that will be used, and some tutorials on how to apply those skills. Those skills include [``Python``](), [``Machine Learning``](), [``C++``](), and [``HiperGator``]().
 
-[Start Here](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md)
+## [Start Here](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md)
+
+
+## Index
+[Part 1 - Getting Set Up](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_1.md)
+
+[Part 2 - Joint Kinematics](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_2.md)
+
+[Part 3 - Model-Image Registration](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_3.md)
+
+[Part 4 - Machine Learning and Neural Networks](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_4.md)
+
+[Part 5 - Python Skills](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_5.md)
+
+[Part 6 - HiperGator Supercomputer](https://github.com/BRIO-lab/brio-lab-onboarding/blob/main/JTML/Part_6.md)
