@@ -18,7 +18,7 @@ To start, we aren't going to worry too much about research-type things; rather, 
     * [Visual Studio Code](https://code.visualstudio.com/) (lightweight and simple)
     * [Sublime Text Editor](https://www.sublimetext.com/) (I've never used this, but it is recommended by many)
     * There are a *ton* of IDEs available, use the one that feels the most natural for you.
-    * ``IF YOU ARE WORKING ON C++ CODE, YOU WILL NEED TO DOWNLOAD VISUAL STUDIO COMMUNITY 2019``
+    * ``IF YOU ARE WORKING ON C++ CODE, YOU WILL NEED TO DOWNLOAD VISUAL STUDIO COMMUNITY``
 4. Create a Github account and download Github Desktop (send me your username!)
     * [Create a Github account](https://github.com/join)
     * [Download Github Desktop](https://desktop.github.com/)
